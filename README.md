@@ -55,7 +55,7 @@ Start the API server:
 node server.js
 ```
 
-The backend runs at `http://localhost:8080`.
+The backend runs at `https://zyraai.onrender.com`.
 
 ### 2. Configure the frontend
 
