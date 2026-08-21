@@ -68,16 +68,23 @@ ZyraAi/
 │
 └── README.md
 
-⚙️ Getting Started
-Prerequisites
+## ⚙️ Getting Started
+
+### Prerequisites
+
 Make sure you have the following installed:
+
 - Node.js 18+
 - npm
 - MongoDB connection
 - OpenAI API key
-1. Clone the Repository
+
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/MdHamidAzam/ZyraAi.git
 cd ZyraAi
+```
 2. Configure the Backend
 cd Backend
 npm install
